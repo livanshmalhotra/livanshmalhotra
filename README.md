@@ -1,7 +1,14 @@
-🚀 Livansh Malhotra
-💻 Full-Stack Developer | React Specialist | UI/UX Enthusiast | Graphic Designer
+<h1><strong>🚀 Livansh Malhotra</strong></h1>
 
-I build responsive, high-performance web applications using modern frontend and scalable backend technologies, with a strong focus on React, UI/UX, API integration, and user-centric full-stack solutions. I also design impactful visuals for web and social media platforms.
+<h3><strong>💻 Full-Stack Developer | React Specialist | UI/UX Enthusiast | Graphic Designer</strong></h3>
+
+<p>
+<strong>
+I build responsive, high-performance web applications using modern frontend and scalable backend technologies, 
+with a strong focus on React, UI/UX, API integration, and user-centric full-stack solutions. 
+I also design impactful visuals for web and social media platforms.
+</strong>
+</p>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/livanshmalhotraa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/livanshmalhotra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:livanshmalhotra05@gmail.com) 
 
